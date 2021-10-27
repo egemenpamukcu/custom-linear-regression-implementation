@@ -1,6 +1,6 @@
 Linear regression
 
-regression.py: Custom linear regression implementation using lumpy
+regression.py: Custom linear regression implementation using numpy
 
 util.py: Python file with several helper functions, some of which
          you will need to use in your code.
